@@ -43,7 +43,8 @@ The raw dataset contained several data quality issues. Using Power Query, I:
 - Identify and build on the category and channel drivers behind the 2025 sales recovery.
 
 ## Dashboard
-Add your Power BI dashboard screenshot here.
+<img width="1407" height="737" alt="dashboard ss" src="https://github.com/user-attachments/assets/58e7deb4-c642-4b46-b181-96eb87bc2abd" />
+
 
 ## Project Files
 - Cleaned retail transaction dataset
